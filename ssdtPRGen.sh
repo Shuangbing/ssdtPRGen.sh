@@ -35,7 +35,7 @@ gGitHubBranch="Beta"
 #
 # Github download URL.
 #
-gGitHubContentURL="https://raw.githubusercontent.com/Piker-Alpha/ssdtPRGen.sh/${gGitHubBranch}"
+gGitHubContentURL="https://raw.githubusercontent.com/Shuangbing/ssdtPRGen.sh/${gGitHubBranch}"
 
 #
 # Change this to 1 if you want to use the Github project directory instead of ~/Library/ssdtPRGen
